@@ -1,0 +1,7 @@
+gradio
+torch
+transformers
+pillow
+numpy
+opencv-python
+sacremoses
