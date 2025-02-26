@@ -1,4 +1,4 @@
-model_name: "https://huggingface.co/spaces/Nadera03/Diagnosify-AI"
+model_name: "https://huggingface.co/spaces/Nadera03/Diagnosify-AI"  <---- Try it out now
 
 Diagnosify-AI: AI-Powered Diagnostic Assistant
 Diagnosify-AI is an advanced AI-powered healthcare assistant designed to revolutionize early disease detection. Leveraging deep learning, computer vision, and NLP, it provides precise, AI-driven diagnostic insights.
@@ -10,4 +10,7 @@ Diagnosify-AI is an advanced AI-powered healthcare assistant designed to revolut
 
 🚀 Future Implementation:
 Diagnosify-AI aims to integrate real-world medical datasets, partner with healthcare professionals, and refine AI accuracy for clinical-level diagnostics. Future versions will support real-time telemedicine integration, multi-modal analysis, and personalized health recommendations, making AI-powered diagnostics accessible to all.
+
+
+
 
