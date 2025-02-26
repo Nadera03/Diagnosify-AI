@@ -1,0 +1,9 @@
+
+---
+
+### **4️⃣ Push Everything to GitHub**  
+Once all files are in place, commit and push them to GitHub:  
+```bash
+git add .
+git commit -m "Initial commit - Diagnosify-AI"
+git push origin main
